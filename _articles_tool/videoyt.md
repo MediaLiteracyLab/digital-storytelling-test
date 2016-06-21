@@ -2,7 +2,7 @@
 title: Youtube
 lang: de
 ref: video-youtube
-feature_image: '/images/700x300.png'
+feature_image: '/images/IMG_0074.png'
 ---
 
 Guten Tag, 
