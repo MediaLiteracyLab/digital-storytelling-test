@@ -1,7 +1,7 @@
 ---
-title: Kita und Fotogeschichten
+title: Youtube
 lang: de
-ref: kita-and-photos
+ref: video-youtube
 feature_image: '/images/700x300.png'
 ---
 
