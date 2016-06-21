@@ -3,6 +3,11 @@
 Live-Preview: https://medialiteracylab.github.io/digital-storytelling-test/
 (if forked: https://YOURUSERNAME.github.io/digital-storytelling-test/)
 
+## Markup
+
+### Youtube
+
+{% include youtubePlayer.html id="5UGlrBvUOt4" %}
 
 ## Local Jekyll Installation
 
