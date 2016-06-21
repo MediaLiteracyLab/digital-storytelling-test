@@ -1,5 +1,5 @@
 ---
-title: Judiths Geschichte.md
+title: Judiths Geschichte
 lang: de
 ref: art-of-storytelling
 feature_image:  	24143199264_160a092518_k.jpg
