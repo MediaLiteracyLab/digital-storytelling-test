@@ -2,7 +2,7 @@
 title: Youtube
 lang: de
 ref: video-youtube
-feature_image: '/images/lego.jpg'
+feature_image: '/images/ninjago.jpg'
 ---
 
 Guten Tag, 
